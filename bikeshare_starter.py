@@ -20,7 +20,7 @@ def get_filters():
    
     while True:
         city = input('Would you like to see data for Chicago, New York City, or Washington? ').strip().lower()
-    
+        print("A beautiful city and a good choice👌")
         if city in ['chicago', 'new york city', 'washington']:
             break
         else:
@@ -190,9 +190,11 @@ def main():
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
+    print("I'll see you later🖐️🎉") 
 
 
 if __name__ == "__main__":
-	main()
+    print("Hello, hello, hello, have a nice day🌄")
+    main()
 
 # I hope you liked this project and that it was beneficial to you.
