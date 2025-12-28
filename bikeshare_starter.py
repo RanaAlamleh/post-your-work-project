@@ -20,7 +20,7 @@ def get_filters():
    
     while True:
         city = input('Would you like to see data for Chicago, New York City, or Washington? ').strip().lower()
-    
+        print("A beautiful city and a good choice👌")
         if city in ['chicago', 'new york city', 'washington']:
             break
         else:
