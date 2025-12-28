@@ -193,4 +193,5 @@ def main():
 
 
 if __name__ == "__main__":
-	main()
+    print("Hello, hello, hello, have a nice day🌄")
+    main()
