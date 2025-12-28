@@ -3,18 +3,10 @@
 
 Explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
 
-## Information about how to use your project
+## Information about how to use this project
 
-This could include:
-
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
-
-## Contribution guidelines
-
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+- First, you need to download the pandas and numpy libraries, then download _this Python file_. The spreadsheets are not included due to their large size, but you can find them online on **Udacity**.
+- After including the libraries and files, you can run it within a _Python programming environment_.
 
 ## Credits
 
